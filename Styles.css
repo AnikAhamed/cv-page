@@ -1,0 +1,140 @@
+
+body {
+  text-align: center;
+  background-color: #f3f2da;
+}
+.div-first-inde {
+
+}
+#index-h1 {
+ font-family: Bad Script;
+ font-size: 5rem;
+ margin-top: auto;
+ padding-top: 11rem;
+ color: #045762;
+}
+.pro {
+  font-size: 1.5rem;
+  font-family:sans-serif;
+}
+span {
+text-decoration: underline;
+}
+.div-2nd-index {
+
+}
+.Cloud-Up {
+position: absolute;
+width: 25%;
+left: 30%;
+}
+.Mountain {
+position: relative;
+width: 70%
+}
+.Cloud-Buttom {
+ position: absolute;
+ margin-top: 3rem;
+ right: 20%;
+ width: 15%;
+}
+hr {
+  border-style: dotted none none none;
+  border-top-width: 0.7rem;
+  border-color: #4e8d7c;
+  width: 8%;
+  margin: 2rem auto;
+}
+#p-p {
+  margin: auto;
+  width:60%;
+}
+h2 {
+  color: #045762;
+  font-family: sans-serif;
+}
+h3 {
+  color: #045762;
+  font-family: sans-serif;
+}
+p {
+  color: #045762;
+  font-family: sans-serif;
+}
+.pro {
+  margin-top: :10px;
+  font-size: 30px;
+  color: #045762;
+  font-family: sans-serif;
+  text-align: center;
+}
+span {
+  text-decoration: underline;
+}
+.profile {
+  text-align: center;
+  width: 50%;
+  margin: auto;
+}
+.profile-pic {
+  width: 11rem;
+}
+.middle-container {
+  text-align: center;
+}
+.Pro-pic {
+width: 160px;
+float: left;
+margin-right: 1rem;
+}
+.brainstorm {
+width: 160px;
+float: right;
+margin-left: 1rem;
+}
+.skill-row1 {
+  text-align: left;
+  line-height: 2;
+  width: 55%;
+  margin: 7rem auto 7rem auto ;
+}
+.skill-row2 {
+  text-align: left;
+  line-height: 2;
+  width: 55%;
+  margin: 7rem auto 7rem auto ;
+}
+.bottom-container {
+  padding: 1rem 0;
+  text-align: center;
+}
+.footer-link {
+  text-decoration: none;
+  margin: 0 1rem;
+  color: #4e8d7c;
+}
+.btn {
+   background: #045762;
+   -webkit-border-radius: 11px;
+   -moz-border-radius: 11px;
+   border-radius: 11px;
+   color: #FFFFFF;
+   font-family: sans-serif;
+   font-size: 1rem;
+   font-weight: 30;
+   padding: 1rem;
+   border: solid #045762 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   background: #4e8d7c;
+   border: solid #90CFE7 1px;
+   -webkit-border-radius: 11px;
+   -moz-border-radius: 11px;
+   border-radius: 11px;
+   text-decoration: none;
+}
